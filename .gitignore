@@ -1,5 +1,13 @@
+### Jekyll ###
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
