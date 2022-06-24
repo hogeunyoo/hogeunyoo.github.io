@@ -3,7 +3,7 @@ layout: post
 title:  "TEST"
 date: 2022-06-24T18:34:39Z
 categories: jekyll update
-published: false
+published: true
 ---
 
 # 테스트용 게시물
