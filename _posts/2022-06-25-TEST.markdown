@@ -1,9 +1,32 @@
 ---
 layout: post
-title:  "TEST"
-date: 2022-06-24T18:34:39Z
+title: "HHKB palm rest with Magic Trackpad"
+date: 2022-06-24T19:05:10Z
 categories: jekyll update
-published: true
+published: false
 ---
+키보드 팜레스트가 탐난다
 
-# 테스트용 게시물
+그래서,
+
+해피해킹 팜레스트를 한번 제작해보았다.
+
+이거, 생각보다 재밌는 일이다.
+
+# 디자인
+
+손을 편안하게 지지하면서, 애플 매직 트랙패드를 중앙에 놓고 싶다.
+
+# 설계
+
+Autofusion360 기반으로 3D 디자인 파일을 작성하였다.
+
+
+# 제작
+
+<figure>
+    <img src="/assets/images/2022-06-26-Ultimaker-S5-Pro-Bundle-product-hero.webp">
+    <figcaption align="center">Ultimaker S5 Pro Bundle</figcaption>
+</figure>
+
+연구실의 3D 프린터를 사용했다. 소재는 ABS
